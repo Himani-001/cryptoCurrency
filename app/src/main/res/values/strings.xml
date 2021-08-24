@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="search_crypto_currency">Search Crypto Currency</string>
+</resources>
